@@ -1,0 +1,7 @@
+{
+  "name": "AyurPlant Explorer",
+  "description": "A comprehensive Ayurvedic plant encyclopedia providing detailed pharmacological profiles (Rasa, Virya, Vipak) with AI-generated visual aids and multi-language support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
